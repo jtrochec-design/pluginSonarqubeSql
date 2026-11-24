@@ -1,0 +1,1 @@
+# pluginSonarqubeSql
